@@ -39,7 +39,7 @@ const hpMemList = [
     {map:"National WAZA HQ", world:"Real World", location:"Examine computers next to Main Computer (Command Center)", item: "HP Memory 10"},
     {map:"National WAZA HQ", world:"Real World", location:"Vidy Otaku's HELP (Satella Police HQ)", item: "HP Memory 20"},
     {map:"National WAZA HQ", world:"Real World", location:"Rob Sidkic's HELP (Satella Police HQ)", item: "HP Memory 10"},
-    {map:"National WAZA HQ", world:"Wave World", location:"Mowai Comp BMWHidden warp in corner of briefing room (Satella Police HQ)", item: "HP Memory 20"},
+    {map:"National WAZA HQ", world:"Wave World", location:"Hidden warp in corner of briefing room (Satella Police HQ)", item: "HP Memory 20"},
     {map:"National WAZA HQ", world:"Wave World", location:"Main Computer CC BMW", item: "HP Memory 10"},
 
     {map:"Dealer Hideout", world:"Real World", location:"Examine green machines (Secret Shelter)", item: "HP Memory 10"},
